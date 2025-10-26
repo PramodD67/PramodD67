@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramodD67
 - 👀 I love to innovate stuffs.
-- 🌱 I’m a computer science engineering graduate and working at MNC as a Data Engineer.
+- 🌱 I’m a computer science engineering graduate, Currently working at MNC as a Data Engineer.
 - 💞️ I’m looking to collaborate on Data Engineering Projects.
 - 📫 Reach me on pramod.d6769@gmail.com
 
