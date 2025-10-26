@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PramodD67
-- 👀 I’m interested in creating  innovative stuffs.
-- 🌱 I’m currently learning Computer science Engineering.
-- 💞️ I’m looking to collaborate on android development.
+- 👀 I love to innovate stuffs.
+- 🌱 I’m a computer science engineering graduate and working at MNC as a Data Engineer.
+- 💞️ I’m looking to collaborate on Data Engineering Projects.
 - 📫 Reach me on pramod.d6769@gmail.com
 
 <!---
